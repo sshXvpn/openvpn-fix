@@ -1,5 +1,4 @@
 #!/bin/bash
-
 domain=$(cat /etc/xray/domain)
 clear
 
